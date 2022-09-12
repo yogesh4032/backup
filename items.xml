@@ -1,0 +1,34 @@
+<details>
+<order id="19999567">
+<items>
+<item>
+<item_cd>5678</item_cd>
+<item_des>sample2</item_des>
+</item>
+</items>
+</order>
+<order id="12345567">
+<items>
+<item>
+<item_cd>1234</item_cd>
+<item_des>sample1</item_des>
+</item>
+<item>
+<item_cd>5678</item_cd>
+<item_des>sample2</item_des>
+</item>
+<item>
+<item_cd>0987</item_cd>
+<item_des>sample3</item_des>
+</item>
+</items>
+</order>
+<order id="123000097">
+<items>
+<item>
+<item_cd>1234</item_cd>
+<item_des>sample1</item_des>
+</item>
+</items>
+</order>
+</details>
